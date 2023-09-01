@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Scalene",
+    "Perimeter": 12.0,
+    "Area": 3.0
+  },
+  {
+    "Name": "Circle",
+    "Perimeter": 25.13,
+    "Area": 50.27
+  },
+  {
+    "Name": "Square",
+    "Perimeter": 16.0,
+    "Area": 16.0
+  },
+  {
+    "Name": "Rectangle",
+    "Perimeter": 14.0,
+    "Area": 12.0
+  },
+  {
+    "Name": "Scalene",
+    "Perimeter": 9.0,
+    "Area": 8.0
+  },
+  {
+    "Name": "Equilateral",
+    "Perimeter": 6.0,
+    "Area": 2.0
+  }
+]

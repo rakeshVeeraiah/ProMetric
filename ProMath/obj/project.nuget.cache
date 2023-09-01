@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eU49c+yijTpWdte4WCPmq7uenfVFxLokabNhVpC6fvIjQ9qrDUgOLmfdUmWgNbnrp3nU05a+oWr7npMznZlBXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rakes\\source\\repos\\ProMetric\\ProMath\\ProMath.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rakes\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
